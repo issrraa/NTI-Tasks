@@ -1,0 +1,39 @@
+body{
+    padding: 50px;
+    font-size: larger;
+}
+.text-bold{
+    font-weight: bold;
+}
+
+.text-small{
+    font-size: small;
+}
+
+table{
+    width: 100%;
+}
+
+.header{
+    border-bottom: 2px orange solid;
+}
+
+.bottom-line{
+    border-bottom: 1px gray solid;
+}
+
+td{
+    padding: 7px;
+}
+
+.title{
+    color: orange;
+    font-size: large;
+    font-weight: bold;
+    width: 20%;
+}
+
+.name{
+    width: 80%;
+    font-weight: bolder;
+}
